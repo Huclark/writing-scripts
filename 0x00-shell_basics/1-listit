@@ -1,0 +1,5 @@
+#!/bin/bash
+# Displays the contents list of your current directory
+ls
+
+
