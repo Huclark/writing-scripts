@@ -1,0 +1,3 @@
+#!/bin/bash
+# Lists files & directories in numerical format in long format too.
+ls -ln
